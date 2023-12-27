@@ -34,7 +34,7 @@ Users are able be able to:
 ### Links
 
 - Solution URL: [NFT-preview-card](https://github.com/felixateya/nft-preview-card)
-- Live Site URL: [NFT-preview-card](https://your-live-site-url.com)
+- Live Site URL: [NFT-preview-card](https://nft-preview-card-gold-chi.vercel.app)
 
 ## My process
 
